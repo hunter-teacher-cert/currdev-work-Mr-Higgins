@@ -1,0 +1,7 @@
+# Physical Programming and Sciences
+## General Description
+Class will cover/enter C/C++ and "mixed mode" Assembly integration to better understand software-hardware implementations and encoding. Furthermore, the course will go over architecture and how that can directly or indirectly effect the speeds of programs. (Admittedly the biggest guiding principle is trying to teach students how to identify what hardware is actually better/faster/more efficient and why certain materials are better for what circumstances. I'm sick of seeing students just buying the biggest numbers without knowing just how to make their "gamer rigs" smoothly!!!)
+## Intended Audience
+Preferably students who have taken AP CSA, but AP CSP should be good enough with stretching. I might be able to water it down further and allow for students who have taken AP Chemistry or AP Physics with some success in math subjects...?
+## How it Fits
+A similarly-named course exists under "Physical Computing" but that course focuses on robotics and is aimed at students needing an elective and does not require CSP, but this would be something a bit more intensive and closer to material sciences! I think knowing how semiconductors work and also seeing the wonder of having your first "bit of data" is really exciting. Also I think being able to measure speeds below milliseconds is ridiculously cool ✨
